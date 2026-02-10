@@ -1,4 +1,4 @@
-#Calculator 
+#Calculator for addition, multiplication and subtraction 
 
 
 import addition as a 
